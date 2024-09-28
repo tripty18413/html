@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tripty Shukla</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<image align="right" alt="coding" width="400" src=" https://user-images.githubusercontent..." >
+<image align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw3PSx8qAm9mkJxc5q6UJEKa&ust=1727584171422000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODR7Nzm5IgDFQAAAAAdAAAAABAE" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripty18413&label=Profile%20views&color=0e75b6&style=flat" alt="tripty18413" /> </p>
 
 - 🌱 I’m currently learning **DSA in C++, web development**
